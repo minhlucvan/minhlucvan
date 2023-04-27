@@ -27,13 +27,11 @@
 </p>
 
 ### Interests
-- Frontend Development
 - System Design
+- Frontend Development
 - Developer Experience
 - Artificial Intelligence
-- Devops
 - Cryptocurrency
-- GameFi
 
 ### Contact
 <a href="https://www.linkedin.com/in/minh-luc-van-2880b5113/" target="_blank">
