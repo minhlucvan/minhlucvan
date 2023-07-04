@@ -23,7 +23,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&exclude_repo=learnpress&layout=compact&theme=apprentice" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&exclude_repo=LearnPress/learnpress&layout=compact&theme=apprentice" alt="Top langs">
 </p>
 
 ### Interests
