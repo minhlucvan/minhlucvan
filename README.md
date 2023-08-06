@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Minh Luc
 :house_with_garden: I live in Danang, Vietnam.<br>
-:computer: I am currently working for a NCCPLUS as a Full-stack developer.<br>
+:computer: I am currently working for a NCCPLUS as a Technical Leader.<br>
 
 ### Skill-set
 <p align="center">
