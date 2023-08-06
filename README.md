@@ -27,11 +27,11 @@
 </p>
 
 ### Interests
-- System Design
+- System Architecture
 - Frontend Development
 - Developer Experience
 - Artificial Intelligence
-- Cryptocurrency
+- Blockchain Development
 
 ### Contact
 <a href="https://www.linkedin.com/in/minh-luc-van-2880b5113/" target="_blank">
