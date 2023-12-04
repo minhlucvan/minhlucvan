@@ -23,7 +23,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php&exclude_repo=LearnPress/learnpress&layout=compact&theme=apprentice&version=gksgkdjgaksd" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php,html,css,vue&exclude_repo=LearnPress/learnpress&layout=compact&theme=apprentice&version=gksgkdjgaksd" alt="Top langs">
 </p>
 
 ### Interests
