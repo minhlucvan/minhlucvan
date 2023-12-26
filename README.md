@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script">
 </p>
 
-### Github States
+### States
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
