@@ -2,7 +2,7 @@
 :house_with_garden: I live in Danang, Vietnam.<br>
 :computer: I am currently working for a NCCPLUS as a Technical Leader.<br>
 
-### Skill-set
+### Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
