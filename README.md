@@ -58,6 +58,20 @@
       <p><b>AI-assisted code review</b> — a CLI that reads your git diff and uses an LLM to surface insights for review, for GitHub &amp; Bitbucket.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/minhlucvan/agent-browser-mcp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
+      </a>
+      <p><b>Give agents a real browser</b> — an MCP server integrating Vercel Labs' Agent Browser so AI agents can browse, click and extract.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/minhlucvan/notebookmd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=notebookmd&theme=tokyonight&hide_border=true" alt="notebookmd" />
+      </a>
+      <p><b>A notebook for AI agents</b> — turns sequential Python calls into clean Markdown reports (tables, charts, metrics) with no kernel or server.</p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -67,7 +81,6 @@
 | Project | What it is |
 | :-- | :-- |
 | 📊 [**dashboardmd**](https://github.com/minhlucvan/dashboardmd) | Code-first analytics — a DuckDB semantic layer that composes any source into Markdown dashboards |
-| 📓 [**notebookmd**](https://github.com/minhlucvan/notebookmd) | A notebook for AI agents — write Python, get clean Markdown reports (no kernel needed) |
 | 🟢 [**mdit.run**](https://mdit.run/) | Markdown-native runtime for rendering & running docs |
 | 🟢 [**sheets.run**](https://sheets.run/) | Spreadsheets as a programmable, agent-friendly data surface |
 | 🟢 [**ui.rip**](https://ui.rip/) | UI tooling for fast, composable interfaces |
