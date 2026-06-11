@@ -17,7 +17,6 @@
 - 🧑‍💻 Technical Leader at **NCCPLUS**
 - 🤖 Currently working on AI agents and the harnesses around them
 - 📦 I like turning ideas into small tools and shipping them
-- 🐽 Bio status: `🐽 🔇 💻 📚 👽 🎶 💭 📝`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
