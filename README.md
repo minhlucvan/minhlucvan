@@ -35,13 +35,11 @@
       <a href="https://github.com/openplaybooks-dev/converge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=openplaybooks-dev&repo=converge&theme=tokyonight&hide_border=true" alt="converge" />
       </a>
-      <p><b>Long-running AI agents that adapt until outcomes converge</b> — a TypeScript framework for autonomous, multi-step playbooks with built-in verification, resumable run journals, and multi-provider support.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/minhlucvan/n8n-nodes-browserless">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-browserless&theme=tokyonight&hide_border=true" alt="n8n-nodes-browserless" />
       </a>
-      <p><b>Headless browser automation for n8n</b> — get page content, run custom functions, capture screenshots &amp; generate PDFs via a Browserless instance. My most-used community node.</p>
     </td>
   </tr>
   <tr>
@@ -49,13 +47,11 @@
       <a href="https://github.com/minhlucvan/n8n-nodes-firecrawl">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-firecrawl&theme=tokyonight&hide_border=true" alt="n8n-nodes-firecrawl" />
       </a>
-      <p><b>Firecrawl for n8n</b> — scrape, crawl and turn websites into clean LLM-ready data right inside your n8n workflows.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/minhlucvan/crgpt">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=crgpt&theme=tokyonight&hide_border=true" alt="crgpt" />
       </a>
-      <p><b>AI-assisted code review</b> — a CLI that reads your git diff and uses an LLM to surface insights for review, for GitHub &amp; Bitbucket.</p>
     </td>
   </tr>
   <tr>
@@ -63,13 +59,11 @@
       <a href="https://github.com/minhlucvan/agent-browser-mcp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
       </a>
-      <p><b>Give agents a real browser</b> — an MCP server integrating Vercel Labs' Agent Browser so AI agents can browse, click and extract.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/minhlucvan/notebookmd">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=notebookmd&theme=tokyonight&hide_border=true" alt="notebookmd" />
       </a>
-      <p><b>A notebook for AI agents</b> — turns sequential Python calls into clean Markdown reports (tables, charts, metrics) with no kernel or server.</p>
     </td>
   </tr>
 </table>
