@@ -38,24 +38,24 @@
       <p><b>Long-running AI agents that adapt until outcomes converge</b> — a TypeScript framework for autonomous, multi-step playbooks with built-in verification, resumable run journals, and multi-provider support.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/dashboardmd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=dashboardmd&theme=tokyonight&hide_border=true" alt="dashboardmd" />
+      <a href="https://github.com/minhlucvan/n8n-nodes-browserless">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-browserless&theme=tokyonight&hide_border=true" alt="n8n-nodes-browserless" />
       </a>
-      <p><b>Code-first analytics for Python &amp; AI agents</b> — a DuckDB-powered semantic layer (entities, dimensions, measures) that composes any data source into Markdown dashboards.</p>
+      <p><b>Headless browser automation for n8n</b> — get page content, run custom functions, capture screenshots &amp; generate PDFs via a Browserless instance. My most-used community node.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/notebookmd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=notebookmd&theme=tokyonight&hide_border=true" alt="notebookmd" />
+      <a href="https://github.com/minhlucvan/n8n-nodes-firecrawl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-firecrawl&theme=tokyonight&hide_border=true" alt="n8n-nodes-firecrawl" />
       </a>
-      <p><b>A notebook for AI agents</b> — turns sequential Python calls into clean Markdown reports (tables, charts, metrics) with no kernel or server. Perfect for batch analysis &amp; CI.</p>
+      <p><b>Firecrawl for n8n</b> — scrape, crawl and turn websites into clean LLM-ready data right inside your n8n workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/trading-dashboard">
-        <img src="https://img.shields.io/badge/trading--dashboard-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="trading-dashboard" />
+      <a href="https://github.com/minhlucvan/crgpt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=crgpt&theme=tokyonight&hide_border=true" alt="crgpt" />
       </a>
-      <p><b>Quant trading dashboard &amp; analytics</b> — research, signals and portfolio insight for systematic trading. <i>(private repo)</i></p>
+      <p><b>AI-assisted code review</b> — a CLI that reads your git diff and uses an LLM to surface insights for review, for GitHub &amp; Bitbucket.</p>
     </td>
   </tr>
 </table>
@@ -66,12 +66,14 @@
 
 | Project | What it is |
 | :-- | :-- |
+| 📊 [**dashboardmd**](https://github.com/minhlucvan/dashboardmd) | Code-first analytics — a DuckDB semantic layer that composes any source into Markdown dashboards |
+| 📓 [**notebookmd**](https://github.com/minhlucvan/notebookmd) | A notebook for AI agents — write Python, get clean Markdown reports (no kernel needed) |
 | 🟢 [**mdit.run**](https://mdit.run/) | Markdown-native runtime for rendering & running docs |
 | 🟢 [**sheets.run**](https://sheets.run/) | Spreadsheets as a programmable, agent-friendly data surface |
 | 🟢 [**ui.rip**](https://ui.rip/) | UI tooling for fast, composable interfaces |
 | 🔌 [**n8n-nodes-apify**](https://github.com/minhlucvan/n8n-nodes-apify) | n8n community node — web scraping & automation via Apify actors |
-| 🔌 [**n8n-nodes-browserless**](https://github.com/minhlucvan/n8n-nodes-browserless) | n8n community node — headless browser automation, screenshots & PDFs |
 | 🤝 [**mezon-bot-ai**](https://github.com/mezonai/mezon-bot-ai) | Multi-tenant RAG platform with citation-enforced, policy-driven bots |
+| 📈 [**trading-dashboard**](https://github.com/minhlucvan/trading-dashboard) | Quant trading dashboard & analytics for systematic strategies _(private)_ |
 
 ### 🔮 Building Next
 
