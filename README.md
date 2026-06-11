@@ -3,29 +3,25 @@
 # Hi, I'm Minh Luc 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Technical+Leader+%40+NCCPLUS;Building+long-running+AI+agents;Harness+engineering+%26+agent+automation;Markdown-native+tools+for+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Technical+Leader+%40+NCCPLUS;Working+on+AI+agents+%26+their+harnesses;Coffee+%E2%86%92+code+%E2%86%92+repeat" alt="Typing SVG">
 </a>
 
-🏡 Danang, Vietnam &nbsp;·&nbsp; 🧠 AI Agents &nbsp;·&nbsp; 🛠️ Developer Experience &nbsp;·&nbsp; 📐 System Architecture
+🏡 Danang, Vietnam &nbsp;·&nbsp; 💻 Code &nbsp;·&nbsp; 📚 Reading &nbsp;·&nbsp; 🎶 Music
 
 </div>
 
 ---
 
-### 🚀 About me
+### 👋 About me
 
-I'm a Technical Leader at **NCCPLUS**, building the tooling and harnesses that make AI agents
-actually useful in production. I care about clean architecture, great developer experience, and
-shipping ideas as real products. Lately I've gone deep on **autonomous, long-running agents** — and
-on the unglamorous infrastructure (verification, harnesses, automation) that lets them run unattended.
+- 🧑‍💻 Technical Leader at **NCCPLUS**
+- 🤖 Currently working on AI agents and the harnesses around them
+- 📦 I like turning ideas into small tools and shipping them
+- 🐽 Bio status: `🐽 🔇 💻 📚 👽 🎶 💭 📝`
 
-### 🔭 What I'm focused on right now
+### 🔭 What I'm into lately
 
-- 🤖 **AI Agent Development** — designing agents that plan, act, and self-correct
-- ⏳ **Long-running Agents** — agents that adapt until the outcome converges
-- 🏢 **Enterprise AI Adoption** — bringing agents into real org workflows, safely
-- ⚙️ **Agent Automation** — wiring agents into the systems that run the business
-- 🧰 **Harness Engineering** — the verification, sandboxing & scaffolding agents need to be trusted
+`AI agent development` &nbsp;·&nbsp; `long-running agents` &nbsp;·&nbsp; `enterprise AI adoption` &nbsp;·&nbsp; `agent automation` &nbsp;·&nbsp; `harness engineering`
 
 ---
 
@@ -135,5 +131,5 @@ on the unglamorous infrastructure (verification, harnesses, automation) that let
 </p>
 
 <div align="center">
-  <sub>Thanks for stopping by — let's build agents that actually ship. 🚀</sub>
+  <sub>Thanks for stopping by — say hi anytime. 👋</sub>
 </div>
