@@ -37,15 +37,27 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/n8n-nodes-browserless">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-browserless&theme=tokyonight&hide_border=true" alt="n8n-nodes-browserless" />
+      <a href="https://github.com/minhlucvan/agent-browser-mcp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/n8n-nodes-firecrawl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-firecrawl&theme=tokyonight&hide_border=true" alt="n8n-nodes-firecrawl" />
+      <a href="https://github.com/minhlucvan/claude-memu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=claude-memu&theme=tokyonight&hide_border=true" alt="claude-memu" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/minhlucvan/notebookmd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=notebookmd&theme=tokyonight&hide_border=true" alt="notebookmd" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/minhlucvan/claude-code-wiki">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=claude-code-wiki&theme=tokyonight&hide_border=true" alt="claude-code-wiki" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -56,13 +68,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/agent-browser-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
+      <a href="https://github.com/minhlucvan/n8n-nodes-browserless">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-browserless&theme=tokyonight&hide_border=true" alt="n8n-nodes-browserless" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/notebookmd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=notebookmd&theme=tokyonight&hide_border=true" alt="notebookmd" />
+      <a href="https://github.com/minhlucvan/n8n-nodes-firecrawl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=n8n-nodes-firecrawl&theme=tokyonight&hide_border=true" alt="n8n-nodes-firecrawl" />
       </a>
     </td>
   </tr>
