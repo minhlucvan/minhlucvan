@@ -78,7 +78,6 @@
 | 🟢 [**mdit.run**](https://mdit.run/) | Markdown-native runtime for rendering & running docs |
 | 🟢 [**sheets.run**](https://sheets.run/) | Spreadsheets as a programmable, agent-friendly data surface |
 | 🟢 [**ui.rip**](https://ui.rip/) | UI tooling for fast, composable interfaces |
-| 🔌 [**n8n-nodes-apify**](https://github.com/minhlucvan/n8n-nodes-apify) | n8n community node — web scraping & automation via Apify actors |
 | 🤝 [**mezon-bot-ai**](https://github.com/mezonai/mezon-bot-ai) | Multi-tenant RAG platform with citation-enforced, policy-driven bots |
 | 📈 [**trading-dashboard**](https://github.com/minhlucvan/trading-dashboard) | Quant trading dashboard & analytics for systematic strategies _(private)_ |
 
