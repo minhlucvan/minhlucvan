@@ -19,6 +19,11 @@
 - 📦 I like turning ideas into small tools and shipping them
 - 🐽 Bio status: `🐽 🔇 💻 📚 👽 🎶 💭 📝`
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php,html,css,vue,scss,jupyter%20notebook&exclude_repo=LearnPress/learnpress&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
 ---
 
 ### 🔭 What I'm focused on right now
@@ -151,15 +156,6 @@
 [![OpenPlaybooks](https://img.shields.io/badge/openplaybooks--dev-converge-1A1B27?style=flat-square&logo=github)](https://github.com/openplaybooks-dev)
 [![BTCP](https://img.shields.io/badge/browser--tool--calling--protocol-open_standard-1A1B27?style=flat-square&logo=github)](https://github.com/browser-tool-calling-protocol)
 [![Mezon](https://img.shields.io/badge/mezonai-mezon--bot--ai-1A1B27?style=flat-square&logo=github)](https://github.com/mezonai)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php,html,css,vue,scss,jupyter%20notebook&exclude_repo=LearnPress/learnpress&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
 
 ---
 
