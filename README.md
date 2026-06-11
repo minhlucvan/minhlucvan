@@ -19,7 +19,9 @@
 - 📦 I like turning ideas into small tools and shipping them
 - 🐽 Bio status: `🐽 🔇 💻 📚 👽 🎶 💭 📝`
 
-### 🔭 What I'm into lately
+### 🔭 What I'm focused on right now
+
+> Unlocking the capabilities of coding-agent paradigms — and bringing them into enterprise workflows and other industries.
 
 `AI agent development` &nbsp;·&nbsp; `long-running agents` &nbsp;·&nbsp; `enterprise AI adoption` &nbsp;·&nbsp; `agent automation` &nbsp;·&nbsp; `harness engineering`
 
