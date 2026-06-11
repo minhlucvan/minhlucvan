@@ -19,11 +19,32 @@
 - 📦 I like turning ideas into small tools and shipping them
 - 🐽 Bio status: `🐽 🔇 💻 📚 👽 🎶 💭 📝`
 
+---
+
 ### 🔭 What I'm focused on right now
 
 > Unlocking the capabilities of coding-agent paradigms — and bringing them into enterprise workflows and other industries.
 
 `AI agent development` &nbsp;·&nbsp; `long-running agents` &nbsp;·&nbsp; `enterprise AI adoption` &nbsp;·&nbsp; `agent automation` &nbsp;·&nbsp; `harness engineering`
+
+---
+
+### 🛠️ Tech &amp; Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+</p>
 
 ---
 
@@ -87,11 +108,13 @@
 | Project | What it is |
 | :-- | :-- |
 | 📊 [**dashboardmd**](https://github.com/minhlucvan/dashboardmd) | Code-first analytics — a DuckDB semantic layer that composes any source into Markdown dashboards |
-| 🟢 [**mdit.run**](https://mdit.run/) | Markdown-native runtime for rendering & running docs |
+| 🟢 [**mdit.run**](https://mdit.run/) | Markdown-native runtime for rendering &amp; running docs |
 | 🟢 [**sheets.run**](https://sheets.run/) | Spreadsheets as a programmable, agent-friendly data surface |
 | 🟢 [**ui.rip**](https://ui.rip/) | UI tooling for fast, composable interfaces |
 | 🤝 [**mezon-bot-ai**](https://github.com/mezonai/mezon-bot-ai) | Multi-tenant RAG platform with citation-enforced, policy-driven bots |
-| 📈 [**trading-dashboard**](https://github.com/minhlucvan/trading-dashboard) | Quant trading dashboard & analytics for systematic strategies _(private)_ |
+| 📈 [**trading-dashboard**](https://github.com/minhlucvan/trading-dashboard) | Quant trading dashboard &amp; analytics for systematic strategies _(private)_ |
+
+---
 
 ### 🔮 Building Next
 
@@ -105,31 +128,14 @@
 - 📝 [I stopped driving development with specs — here's what works instead](https://www.linkedin.com/pulse/i-stopped-driving-development-specs-heres-what-works-instead-luc-van-nxddc/)
 - 📰 [Articles on the NCC ANT blog](https://ant.ncc.plus/author/nccant/)
 
+---
+
 ### 🏛️ Organizations
 
 [![NCCPLUS](https://img.shields.io/badge/NCCPLUS-Technical_Leader-2563EB?style=flat-square)](https://ncc.asia/)
 [![OpenPlaybooks](https://img.shields.io/badge/openplaybooks--dev-converge-1A1B27?style=flat-square&logo=github)](https://github.com/openplaybooks-dev)
 [![BTCP](https://img.shields.io/badge/browser--tool--calling--protocol-open_standard-1A1B27?style=flat-square&logo=github)](https://github.com/browser-tool-calling-protocol)
 [![Mezon](https://img.shields.io/badge/mezonai-mezon--bot--ai-1A1B27?style=flat-square&logo=github)](https://github.com/mezonai)
-
----
-
-### 🛠️ Tech &amp; Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-</p>
 
 ---
 
