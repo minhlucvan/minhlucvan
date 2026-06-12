@@ -10,6 +10,11 @@
 
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php,html,css,vue,scss,jupyter%20notebook&exclude_repo=LearnPress/learnpress&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
 ---
 
 ### 👋 About me
@@ -17,11 +22,6 @@
 - 🧑‍💻 Technical Leader at **NCCPLUS**
 - 🤖 Currently working on AI agents and the harnesses around them
 - 📦 I like turning ideas into small tools and shipping them
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhlucvan&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlucvan&hide=php,html,css,vue,scss,jupyter%20notebook&exclude_repo=LearnPress/learnpress&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
 
 ---
 
