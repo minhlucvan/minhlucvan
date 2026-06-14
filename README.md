@@ -43,15 +43,15 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/agent-browser-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
+      <a href="https://github.com/nccasia/agent-sdk">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nccasia&repo=agent-sdk&theme=tokyonight&hide_border=true" alt="agent-sdk" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/minhlucvan/claude-memu">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=claude-memu&theme=tokyonight&hide_border=true" alt="claude-memu" />
+      <a href="https://github.com/minhlucvan/agent-browser-mcp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlucvan&repo=agent-browser-mcp&theme=tokyonight&hide_border=true" alt="agent-browser-mcp" />
       </a>
     </td>
     <td width="50%" valign="top">
